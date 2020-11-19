@@ -164,7 +164,7 @@ List<string> nameList = names.ToList();
 ```
 Notes: 
 To make I used 
-mkdir -p ~/workspace/student && cd $_
+mkdir -p ~/workspace/student && cd $_    
 dotnet new console -n ClassPlayground -o .
 
 To run:
