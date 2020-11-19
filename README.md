@@ -162,3 +162,10 @@ Throughout your C# journey, you will also encounter a collection type called `IE
 IEnumerable<string> names = data.GetNames();
 List<string> nameList = names.ToList();
 ```
+Notes: 
+To make I used 
+mkdir -p ~/workspace/student && cd $_
+dotnet new console -n ClassPlayground -o .
+
+To run:
+dotnet run in console
