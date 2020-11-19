@@ -167,5 +167,5 @@ To make I used:
 mkdir -p ~/workspace/student && cd $_    
 dotnet new console -n ClassPlayground -o .
 
-To run:
-dotnet run in console
+To run:  
+The command "dotnet run" in console
